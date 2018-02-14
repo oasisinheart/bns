@@ -9,7 +9,7 @@ app.get('/', function(req, res){
 });
 
 app.get('/inputdata', function(req, res){
-	res.send('input data!!!');
+	res.send('input data!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!');
 });
 
 app.get('/log', function(req, res){
